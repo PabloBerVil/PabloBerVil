@@ -4,7 +4,7 @@
 <h1 align="center"> Hello there, visitor 👋</h1>
 </div>
 
-Unfortunately, this is just my personal store for my forked projects and little practices and experiments. Nothing especially "flashy" to show here. 🤔
+Unfortunately, this is just my personal store for my forked projects and little practices and experiments. Nothing especially "flashy" to see here. 🤔
 
 Let me show you a much ✨nicer✨ place to see what I´ve done in my career through the videogame industry.
 
